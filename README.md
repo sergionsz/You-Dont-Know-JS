@@ -1,4 +1,4 @@
-Esta es una traducción del libro You Don't Know JS, escrito por [Kyle Simpson](https://github.com/getify/, "Kyle's GitHub") y publicado por [O’Reilly Media, Inc.](http://www.oreilly.com/pub/au/4853, "Kyle's author page")
+Esta es una traducción del libro "You Don't Know JS" (Tú No Sabes JavaScript), escrito por [Kyle Simpson](https://github.com/getify/, "Kyle's GitHub") y publicado por [O’Reilly Media, Inc.](http://www.oreilly.com/pub/au/4853, "Kyle's author page")
 
 ______________________________________________________
 
