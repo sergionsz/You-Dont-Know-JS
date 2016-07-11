@@ -19,8 +19,8 @@ Sientete libre de contribuir a este documento. Envía un PR para proponer cambio
 
 ## Títulos
 
-* ¡Consultalo gratis en línea!: ["Listos para comenzar"](up & going/README.md#you-dont-know-js-up--going), Libro publicado: [Cómpralo ahora](http://shop.oreilly.com/product/0636920039303.do) impreso; ¡el libro en formato ebook es gratis!
-* ¡Consultalo gratis en línea!: ["Scope y Closures"](scope & closures/README.md#you-dont-know-js-scope--closures), Libro publicado: [Cómpralo ahora](http://shop.oreilly.com/product/0636920026327.do)
+* ¡Consultalo gratis en línea!: ["Listos para Comenzar"](up & going/README.md#you-dont-know-js-up--going), Libro publicado: [Cómpralo ahora](http://shop.oreilly.com/product/0636920039303.do) impreso; ¡el libro en formato ebook es gratis!
+* ¡Consultalo gratis en línea!: ["Ámbito y Closures"](scope & closures/README.md#you-dont-know-js-scope--closures), Libro publicado: [Cómpralo ahora](http://shop.oreilly.com/product/0636920026327.do)
 * ¡Consultalo gratis en línea!: ["this y Prototipos de Objeto"](this & object prototypes/README.md#you-dont-know-js-this--object-prototypes), Libro publicado: [Cómpralo ahora](http://shop.oreilly.com/product/0636920033738.do)
 * ¡Consultalo gratis en línea!: ["Tipos y Gramática"](types & grammar/README.md#you-dont-know-js-types--grammar), Libro publicado: [Cómpralo ahora](http://shop.oreilly.com/product/0636920033745.do)
 * ¡Consultalo gratis en línea!: ["Programación Asíncrona y Rendimiento"](async & performance/README.md#you-dont-know-js-async--performance), Libro publicado: [Cómpralo ahora](http://shop.oreilly.com/product/0636920033752.do)
